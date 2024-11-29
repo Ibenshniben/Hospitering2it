@@ -90,6 +90,7 @@ body{
     flex-direction: column;
     justify-content: center;
     top: 30vh;
+    margin-bottom: 40vh;
     align-items: center;
     position: relative;
     font-size: xx-large;
@@ -250,6 +251,12 @@ nav{
     }
     .footer3{
         display: none;
+    }
+    #logo-navbar{
+        height: 20px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        margin-left: 5px;
     }
 
     .down-arrow {
