@@ -87,9 +87,11 @@ body{
 }
 .forventninger{
     display: flex;
-    margin-top: 15%;
-    align-content: center;
-    margin-left: 25%;
+    flex-direction: column;
+    justify-content: center;
+    top: 30vh;
+    align-items: center;
+    position: relative;
     font-size: xx-large;
     text-align: center;
     align-items: center;
