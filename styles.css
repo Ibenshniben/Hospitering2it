@@ -326,7 +326,11 @@ nav{
     background-position: center;
     background-size: cover;
 }
-
+#im-lan{
+    background-image: url("im-lan.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
 @media screen and (max-width:900px) {
 
