@@ -331,6 +331,11 @@ nav{
     background-position: center;
     background-size: cover;
 }
+#techpoint{
+    background-image: url("techpoint.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
 @media screen and (max-width:900px) {
 
